@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressAPI", "AddressAPI\AddressAPI.csproj", "{F469964A-1BD5-4E07-8D00-151CEC5B2EB0}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AngularFrontend", "AngularFrontend\AngularFrontend.esproj", "{887B01DC-4BA3-43CE-8697-62CE2FCA9314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F469964A-1BD5-4E07-8D00-151CEC5B2EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F469964A-1BD5-4E07-8D00-151CEC5B2EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F469964A-1BD5-4E07-8D00-151CEC5B2EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F469964A-1BD5-4E07-8D00-151CEC5B2EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887B01DC-4BA3-43CE-8697-62CE2FCA9314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887B01DC-4BA3-43CE-8697-62CE2FCA9314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887B01DC-4BA3-43CE-8697-62CE2FCA9314}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{887B01DC-4BA3-43CE-8697-62CE2FCA9314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887B01DC-4BA3-43CE-8697-62CE2FCA9314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{887B01DC-4BA3-43CE-8697-62CE2FCA9314}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C397DD-DC4E-456A-8D98-0E6213D57901}
+	EndGlobalSection
+EndGlobal
