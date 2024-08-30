@@ -23,7 +23,7 @@ This project consists of an Angular frontend and a .NET Core backend API with Ra
 1. Clone the repository:
  ```
 git clone https://github.com/sachinbarthwal/AGDataAssesment.git
-cd AGDataAssesment
+cd --YourFolderName--
 ```
 3. Set up the backend:
  ```
