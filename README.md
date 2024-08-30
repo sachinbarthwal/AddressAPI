@@ -47,7 +47,7 @@ After completing the setup, you have two options to run the application:
 
 2. **Using Visual Studio**:  
    Alternatively, you can run the application directly through Visual Studio. Open the solution file in Visual Studio, and start the application by pressing `F5` or using the "Start Debugging" option.
-
+- Right click on solution go to properties, startup project then select Multiple Startup projects and select start for both of both the project and ok.
 - Start the backend:
   ```
   cd ../AddressAPI
